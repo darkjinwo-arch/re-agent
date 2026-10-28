@@ -1,0 +1,5 @@
+anthropic>=0.40.0
+capstone>=5.0.0
+pefile>=2023.2.7
+pyelftools>=0.31
+customtkinter>=5.2.2
